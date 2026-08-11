@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,4&height=200&section=header&text=Cow-BOT&fontSize=70&fontColor=ffffff&stroke=00ff88&animation=twinkling" width="100%" />
 
 <!-- TYPING SVG: 5 frases en español -->
-<a href="https://github.com/hecto/Cow-BOT">
+<a href="https://github.com/Riutexu/COWBOT-">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=6EDA78&center=true&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%90%84+%C2%BFQu%C3%A9+pedo+%C3%B1amigos%3F+Soy+Cow-BOT;%F0%9F%A4%A0+El+vaquero+digital+del+voice+chat;%F0%9F%8E%AE+Jugando+y+codeando+como+buen+mexa;%F0%9F%A4%96+Te+escucho%2C+pienso+y+respondo+por+ti;%F0%9F%94%A5+Cowdeidad-style%2C+pura+vida+%C3%B1amigo" alt="Typing SVG" />
 </a>
 
@@ -102,7 +102,7 @@ flowchart LR
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/hecto/Cow-BOT.git
+git clone https://github.com/Riutexu/COWBOT-.git
 cd Cow-BOT
 
 # Instalar dependencias
@@ -260,6 +260,8 @@ SILENCE_TIMEOUT=0.5   # Corta mas rapido
 ### Hecho con 💚 y mucho cafe por un mexa
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4&height=50&section=footer&text=Cow-BOT%20v1.0&fontSize=20&fontColor=ffffff" width="100%" />
+
+### 🔗 [Perfil de Riutexu](https://github.com/Riutexu) · [⭐ Dar estrella](https://github.com/Riutexu/COWBOT-/stargazers)
 
 </div>
 </div>
