@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=6EDA78&center=true&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%90%84+%C2%BFQu%C3%A9+pedo+%C3%B1amigos%3F+Soy+Cow-BOT;%F0%9F%A4%A0+El+vaquero+digital+del+voice+chat;%F0%9F%8E%AE+Jugando+y+codeando+como+buen+mexa;%F0%9F%A4%96+Te+escucho%2C+pienso+y+respondo+por+ti;%F0%9F%94%A5+Cowdeidad-style%2C+pura+vida+%C3%B1amigo" alt="Typing SVG" />
 </a>
 
+[![Estrellas](https://img.shields.io/github/stars/Riutexu/COWBOT-?style=for-the-badge&label=ESTRELLAS&color=b19cd9&logo=github&logoColor=white)](https://github.com/Riutexu/COWBOT-/stargazers)
+[![Actualizado](https://img.shields.io/github/last-commit/Riutexu/COWBOT-?style=for-the-badge&label=ACTUALIZADO&color=ff9e64&logo=git&logoColor=white)](https://github.com/Riutexu/COWBOT-)
+
 <br><br>
 
 ---
